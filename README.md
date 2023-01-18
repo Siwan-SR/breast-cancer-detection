@@ -27,5 +27,4 @@ Type in this command in your terminal
 
 ```bash
     git clone https://github.com/Siwan-SR/breast-cancer-prediction
-    
 ```

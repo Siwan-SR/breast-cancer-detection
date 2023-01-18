@@ -8,7 +8,7 @@ The data is from: https://scikit-learn.org/stable/modules/generated/sklearn.data
 
 ## 🥧 How the model was made
 
-The model was made using [Tensorflow](https://www.tensorflow.org/), an excellent machine learning and deep learning library. I used Keras as the model.
+The model was made using [Scikit-Learn](https://www.scikit-learn.org/), an excellent machine learning library. I used KNNeighbors as the model.
 
 ## 🏗️ How the notebook is structured
 
